@@ -42,8 +42,9 @@ public class AddingMachine
 	
 	
 	
-	// the main method
 	
+	
+	// the main method
 	public static void main(String[] args)
 	{
 		AddingMachine myCalculator = new AddingMachine();
@@ -54,14 +55,6 @@ public class AddingMachine
 		
 		System.out.println(myCalculator.toString());
 	}
-	
-	
-	
-	
-	
-	
-	
-	
 } 
 
 
